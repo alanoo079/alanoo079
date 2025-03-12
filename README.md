@@ -1,5 +1,5 @@
 # 💫 About Me:
-Bugbounty & Malware Dev<br>Sweden
+intp<br>professional procrastinator
 
 
 ## 🌐 Socials:

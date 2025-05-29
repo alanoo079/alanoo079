@@ -6,14 +6,14 @@
                 <img class="discord-logo"
                 src="https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white"
                 alt="knackebrodlogo" 
-                style="width: 28.5%; height: 29%;">
+                style="width: 11%; height: 11%;">
             </a></p>
 <h3 align="left">Websites:</h3>
             <p><a href="https://alanoo.dev/" target="_blank" align="left">
                 <img class="alanoo.logo"
                 src="https://avatars.githubusercontent.com/u/135033760?v=4"
                 alt="knackebrodlogo" 
-                style="width: 5.5%; height: 5.5%;">
+                style="width: 10%; height: 10%;">
             </a></p>
             
 
